@@ -1,0 +1,241 @@
+.barra-superior {
+    margin: 0px auto 20px;
+    width: 100%;
+}
+
+.barra-superior ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: rgb(0, 0, 0);
+    width: 50%;
+    border-radius: 10px;
+}
+
+.barra-superior ul li {
+    margin: 10px 0px;
+    color: white;
+    font-size: 18px;
+    display: inline;
+}
+
+.barra-superior ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 50px;
+    display: inline-block;
+    line-height: 2.1em;
+}
+
+.login{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+    
+}
+
+.login{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.login input{
+    padding: 15px;
+}
+
+.login button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10%;
+    border-radius: 20px;
+    width: 100%;
+    border: 0px;
+} 
+
+
+.login{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.cadastro{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+    
+}
+
+.cadastro{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.cadastro input{
+    padding: 15px;
+}
+
+.cadastro button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10%;
+    border-radius: 20px;
+    width: 100%;
+    border: 0px;
+
+}
+
+
+.cadastro{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+#msg-sucesso{
+    width: 420px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(43, 185, 86);
+    border: 1 solid rgb(0, 0, 0);
+
+}
+
+.msg-erro{
+    width: 420px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(41, 143, 83);
+    border: 1 solid rgb(0, 0, 0);
+
+}
+
+
+
+/* .msg-erro_login{
+    width: 420px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 1 solid rgb(0, 0, 0);
+    position: relative;
+    top: 900px;
+} */
+
+/* body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-tech-line-background-simple-technology-business-image_23028.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+} */
+
+
+
+.pagina_home{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+} 
+
+/* body {
+    background-image: url("https://th.bing.com/th/id/OIP.14JGRBeg2-npl9fBpEbWMQHaEK?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-position: center;
+} */
+
+.login {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+input[type="email"], input[type="password"], input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.msg-erro_login {
+    background-color: #f44336;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.listagem{
+    background-color: #333;
+    width: 700px;
+    height: 500px;
+    border-radius: 20%;
+}
+
+.modulo{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    left: 24.3%;
+    border-radius: 40px;
+    color: #fff;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.separador{
+    border-top: 1px solid white;
+}
+
+#imagem_seta{
+    width: 50px;
+    position: absolute;
+    left: 50px;
+}
